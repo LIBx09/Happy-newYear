@@ -1,1 +1,48 @@
-body{color: aqua;}
+*{
+    font-family: 'Merriweather', serif;
+
+}
+
+/* header section */
+
+.container-one{
+    margin: 50px 90px;
+    width: 1320px;
+    height: 600px;
+    background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%),url('../images/Banner\ Image.png');
+    border-radius: 16px;
+    background-repeat: no-repeat;
+}
+.con-one-head{
+    color: #FFF;
+    text-align: center;
+    font-size: 32px;
+    font-weight: 400;
+    position: relative;
+    top: 180px;
+}
+.con-one-title{
+    color: #FFF;
+    text-align: center;
+    font-size: 72px;
+    font-weight: 900;
+    padding: 150px 300px;
+    /* position: relative; */
+    /* top: 250px; */
+}
+
+/* main section one */
+
+.offers{
+
+}
+
+.offer-persentage{
+
+}
+
+.offer-describesion{
+
+}
+
+.offer-title
