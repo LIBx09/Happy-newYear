@@ -1,5 +1,6 @@
 *{
     font-family: 'Merriweather', serif;
+    
 
 }
 
@@ -33,16 +34,37 @@
 
 /* main section one */
 
-.offers{
-
+.section-one{
+    /* background-color: aqua; */
+    text-align: center;
+    line-height: 20px;
+    /* display: block; */
+    /* margin: auto; */
 }
-
 .offer-persentage{
-
+    color: #F00;
+    text-align: center;
+    font-size: 88px;
+    font-weight: 700;
+    padding-top: 50px;
+    padding-bottom: 30px;
 }
 
 .offer-describesion{
-
+    color: #F00;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 500;
 }
 
-.offer-title
+.offer-title{
+    color: #070211;
+    text-align: center;
+    font-size: 48px;
+    font-weight: 700;
+    padding-bottom: 30px;
+}
+/* .sec-one-img{
+    display: block;
+    margin: auto;
+} */
