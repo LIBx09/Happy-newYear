@@ -5,12 +5,12 @@
 /* header section */
 
 .container-one{
-    margin: 90px;
-    width: 1320px;
-    height: 600px;
-    background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%),url('../images/Banner\ Image.png');
-    border-radius: 16px;
-    background-repeat: no-repeat;
+        margin: 90px;
+        width: 1320px;
+        height: 600px;
+        background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%),url('../images/Banner\ Image.png');
+        border-radius: 16px;
+        background-repeat: no-repeat;
 }
 .con-one-head{
     color: #FFF;
@@ -71,7 +71,9 @@
     margin: 90px;
     width: 1320px;
     height: 600px;
-    background: url('../images/Vectorrr.png');
+    background: rgba(0,0,0,0.7)url('../images/Vectorrr.png');
+    background-size: cover;
+    background-blend-mode: darken;
     border-radius: 10px;
     fill: black;
     background-repeat: no-repeat;
@@ -197,7 +199,7 @@
     /* border-bottom-left-radius: 100px; */
 }
 .sec-four-img-a{
-    padding: 10px;
+    padding: 25px;
     width: 255px;
     height: 255px;
 }
@@ -205,6 +207,7 @@
 
 .sec-c{
     line-height: 10px;
+    text-align: right;
 }
 
 .sec-c-year{
@@ -222,3 +225,40 @@
     width: 140px;
     height: 140px;
 }
+
+/* secrtion five container */
+
+.section-five-container{
+    margin: 90px;
+}
+
+.section-five-step-one{
+    line-height: 10px;
+}
+.sec-five-offer{
+    color: #F00;
+    font-size: 24px;
+    font-weight: 500;
+}
+.sec-five-title{
+    color: #070211;
+    font-size: 48px;
+    font-weight: 900;
+}
+.sec-five-para{
+    padding-bottom: 20px;
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+
+}
+
+.section-five-step-two{
+    padding-bottom: 13px;
+}
+.img-pad{
+    padding-left: 11.5px;
+    padding-right: 11.5px;
+}
+.section-five-step-two{}
