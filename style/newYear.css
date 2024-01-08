@@ -306,3 +306,45 @@
 
 /* footer section */
 
+.foot-container{
+
+    background-color:grey;
+    height: 600px;
+    width: 1482px;
+}
+.sec-one{
+    display: flex;
+    justify-content: space-between;
+    border: 10px solid red;
+}
+
+.address{
+    padding-top: 100px;
+    padding-left: 90px;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 40px;
+}
+
+.foot-para{
+    color: #FFF;
+    text-align: right;
+    padding-top: 80px;
+    padding-right: 100px;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 40px;
+}
+.foot-images{
+    text-align: center;padding-top: 50px;
+}
+.f-i-r-i{
+    padding: 0 20px 0 20px;
+}
+.f-i-r-ii{
+    padding-right: 20px;
+}
+
